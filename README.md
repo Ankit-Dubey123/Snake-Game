@@ -1,6 +1,6 @@
 # Snake-Game
 
-**Live-** [sorting visualizer](https://snakegame786.netlify.app/)
+**Live-** [snake_game](https://snakegame786.netlify.app/)
 
 A simple game where a snake moves around a box trying to eat an apple.
 The length increases and the movement becomes faster after eating
